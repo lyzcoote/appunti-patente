@@ -5,13 +5,10 @@ La Circolazione stradale comprende
 - Persone
 - Animali
 - Veicoli
-- Strada
 
 # A2 Veicoli
 
 >Macchine guidate dall'uomo che circolano all'interno della strada
-
-Due categorie:
 
 ## A2.1 Senza Motore
 
@@ -21,12 +18,14 @@ Due categorie:
   - >Veicolo con 2/3 ruote, mosso dalla forza muscolare del conducente
    (**Bicicletta**)
 
+---
+
 ## A2.2 Con Motore
 
 - **A2.2.1 - Ciclomotori**:
 
-  - 2/3 Ruote (4 ruote)
-  - Motore grande al massimo 50cm³ (4/6 kW)
+  - 2/3 Ruote
+  - Motore grande al massimo 50cm³
   - Velocità massima di 45 km/h
 
 <br/>
@@ -88,19 +87,11 @@ Si divodono in:
 
 - **A2.2.4.3 - Autocarro (Camion)**
 
-<br/>
-
 - **A2.2.4.4 - Trattore Stradale**
-
-<br/>
 
 - **A2.2.4.5 - Autotreno**
 
-<br/>
-
 - **A2.2.4.6 - Autoarticolato**
-
-<br/>
 
 - **A2.2.4.7 - Autosnodato**
 
@@ -175,23 +166,31 @@ Si divodono in:
 ---
 
 # A4 Patenti
->
+
 > Guidare un veicolo senza patente è un **REATO**
->
+
 ## Patente AM
 
 - Si può consenguire (prendere) a **14 anni**
-- Non consente di guidare determinati tipi di veicoli in tutti i paesi della Comunità Europea
+- **Non consente di guidare i tipi di veicoli Ciclomotori in tutti i paesi della Comunità Europea**
 - Consente di portare i:
-  - Ciclomotori
-  - Quadricicli leggeri
+  - Ciclomotori:
+    - 2/3 Ruote
+    - Motore non superiore a 50 cm³
+    - Velocità massima non superiore a 45 km/h
+    - Potenza massima non superiore a 4 kW
+  - Quadricicli leggeri:
+    - Potenza massima non superiore a 6 kW
 
 ## Patente A1
 
 - Si può consenguire a 16 anni
 - Include la Patente AM
 - Condurre i:
-  - Motocicli (Fino a 125 cm³)
+  - Motocicli:
+    - Motore fino a 125 cm³
+    - Potenza non superiore a 11 kW
+    - Rapporto Potenza/Peso non superiore a 0,1kW/kg
   - Macchine Agricole (Limiti di sagoma e massa concessi per i motoveicoli)
   - Tricicli (Potenza massima di 15 kW)
 
@@ -200,10 +199,12 @@ Si divodono in:
 - Si può conseguire a 18 anni
   - Include la Patente AM - A1
   - Condurre:
-    - Motocicli (Potenza massima di 35 kW)
+    - Motocicli:
+      - Potenza massima di 35 kW
+      - Rapporto Potenza/Peso non superiore a 0,1kW/kg
     - Macchine Agricole (Limiti di sagoma e massa concessi per i motoveicoli)
     - Tricili (Fino a 15kW)
-  - Il titolare che conduce un veicolo con la Patente A2, può trasportare un passeggero **SOLO SE** nella carta di circolazione del veicolo, è concesso il posto per 2 passeggeri
+  - > Il titolare che conduce un veicolo con la Patente A2, può trasportare un passeggero **SOLO SE** nella carta di circolazione del veicolo, è concesso il posto per 2 passeggeri
 
 ## Patente A
 
@@ -214,16 +215,21 @@ Si divodono in:
     - 18 Anni conseguo la Patente A2
     - Dopo 2 anni, lo Stato ti permette di conseguire la Patente A (quando hai 20 anni)
 - Condurre:
-  - Tutti i tipi di Motociclo
+  - Veicoli che si possono condurre con le patenti AM-A2;
+  - Tutti i tipi di Motocicli
   - Le Macchine Agricole (Limiti di sagoma e massa concessi per i motoveicoli)
   - I tricicli (Potenza anche maggiore di 15 kW):
-    - **SOLO SE** ho 21 anni e solo sul Territorio Nazione Italiano
+    - **SOLO SE** si ha 21 anni e solo sul Territorio Nazione Italiano
 
 ## Patente B1
 
 - si può conseguire a 16 anni
 - Condurre:
-  - Quadricicli non leggeri (Quad)
+  - Veicoli che si possono condurre con la Patente AM.
+  - Quadricicli non leggeri (Quad):
+    - Con massa vuota non superiore a 400 Kg (Trasporto Persone)
+    - Con massa vuota non superiore a 550 Kg (Trasporto Merci)
+    - Potenza massima di 15 kW
 
 ## Patente B
 
@@ -233,18 +239,37 @@ Si divodono in:
   - Tricicli (Superiori a 15 kW):
     - **MA** Solo se ho 21 anni
     - Solo in Italia
+  - Autoveicolo (Massa max 3,5 T)
+  - Autovetture o autocarri:
+    - Con Rimorchio Leggero:
+      - Massa veicolo max 3,5T
+      - Massa rimorchio leggero 750 Kg
+    - Con Rimorchio Non Leggero:
+      - Massa veicolo max 3,5T
+      - Rimorchio anche di massa oltre i 750 Kg
+      - > **SOLO SE** la **massa** complessiva **di entrambi NON superi le 3,5 T**
   - Quadriciclo
   - Macchine Agricole (anche Eccezionali)
   - Macchine Operatrici
-  - Autoveicolo (Massimo 3,5 T)
 - Per il 1° Anno:
   - Massimo 55 kW/T (Potenza riferito alla tara)
-  - Massimo 75 kW (Potenza massima)
+  - Massimo 70 kW (Potenza massima)
+
+## Patente B96
+
+- Si consegue direttamente o dopo la Patente B (Sostenendo una prova)
+- Abilità alla traina di:
+  - Rimorchi Non Leggeri oltre i 750 Kg
+- E alla guida di autoveicoli con Massa superiore alle 3,5 T
+- > **SOLO SE: Il complesso non supera le 4,25 T**
 
 ## Patente BE
 
-- **Consegue la Patente AM-B1 e B-B96**
-- Massa massima di trasporto **rimorchio di Massimo 3,5 T**
+- **Consegue la Patente AM-B e B96**
+- Abilità alla guida di complessi di veicoli (autotreni) da:
+  - Massa massima di trasporto **fino a 3,5 T**
+  - Rimorchi di Massa massima di trasporto **fino a 3,5 T**
+- Anche se supera il limite della Massa complessiva di 4,25 T
 
 ## Patente C
 
